@@ -15,7 +15,6 @@ Build-Depends:
  po4a,
 Vcs-Git: https://salsa.debian.org/debian/base-passwd.git
 Vcs-Browser: https://salsa.debian.org/debian/base-passwd
-Rules-Requires-Root: no
 X-Style: black
 
 Package: base-passwd

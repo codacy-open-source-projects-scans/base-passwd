@@ -1,3 +1,9 @@
+base-passwd (3.6.9) UNRELEASED; urgency=medium
+
+  * Drop "Rules-Requires-Root: no", default as of dpkg-dev 1.22.13.
+
+ -- Colin Watson <cjwatson@debian.org>  Fri, 21 Nov 2025 11:06:36 +0000
+
 base-passwd (3.6.8) unstable; urgency=medium
 
   * Debconf translations:
